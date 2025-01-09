@@ -27,7 +27,7 @@ The dataset represents e-commerce sales data, with detailed information about ea
 21. B2B: Indicates whether the transaction was a Business-to-Business (B2B) sale. Useful for separating B2B and B2C transactions.<br>
 
 # Dataset
-![image](https://github.com/user-attachments/assets/5c0949d8-f13a-4b73-82ce-f833ca74e249)<br>
+![image](https://github.com/user-attachments/assets/08a7f3d3-83b2-4521-b11d-e9f28539eaef)<br>
 
 [Dataset Link](https://www.kaggle.com/datasets/mishrashikhar/sales-dashboard)<br>
 
